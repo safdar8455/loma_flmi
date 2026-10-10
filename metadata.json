@@ -1,0 +1,6 @@
+{
+  "name": "LOMA 280 Master Suite (Chapters 1-14 + Final Exam)",
+  "description": "Comprehensive LOMA study suite covering LOMA 280 and LOMA 290 with professional, scenario-based MCQs, deep explanations, and simulated exam-style questions for product development, marketing, and corporate governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
